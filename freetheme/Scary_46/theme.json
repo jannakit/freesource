@@ -1,0 +1,287 @@
+{
+  "thumb": "thumb.jpg",
+  "mark": "mark.png",
+  "background": "bg_launcher.jpg",
+  "textColor": "#FF7900",
+  "prev": [
+    "im_preview_1.jpg",
+    "im_preview_2.jpg"
+  ],
+  "fonts": {
+    "light": "light.ttf",
+    "medium": "light.ttf",
+    "bold": "light.ttf"
+  },
+  "folder": {
+    "color": "#ffffff",
+    "colorBig": "#ffffff"
+  },
+  "library": {
+    "color": "#ffffff"
+  },
+  "dock": {
+    "color": "#ffffff"
+  },
+  "search": {
+    "color": "#ffffff"
+  },
+  "controlCenter": {
+    "color": "#eeeeee",
+    "colorSmallOn": "#ffffff",
+    "colorPro": "#ffffff",
+    "colorIcon": "#888888"
+  },
+  "notification": {
+    "colorBg": "#ffffff",
+    "colorText": "#000000"
+  },
+  "iconOther": {
+    "color": "#ffffff"
+  },
+  "apps": [
+  {
+    "pkg": "com.remi.launcher",
+    "name": "app_icon"
+  },
+  {
+    "pkg": "com.remi.launcher.weather",
+    "name": "weather_icon"
+  },
+  {
+    "pkg": "com.remi.launcher.wallpaper",
+    "name": "wallpaper_icon"
+  },
+  {
+    "pkg": "com.android.chrome",
+    "name": "chrome_icon"
+  },
+  {
+    "pkg": "com.android.settings",
+    "name": "settings_icon"
+  },
+  {
+    "pkg": "com.android.vending",
+    "name": "store_icon"
+  },
+  {
+    "pkg": "com.google.android.GoogleCamera",
+    "name": "camera_icon"
+  },
+  {
+    "pkg": "com.android.camera2",
+    "name": "camera_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.docs",
+    "name": "drive_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.maps",
+    "name": "google_maps_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.messaging",
+    "name": "ic_message"
+  },
+  {
+    "pkg": "com.google.android.apps.photos",
+    "name": "photos_icon"
+  },
+  {
+    "pkg": "com.google.android.calculator",
+    "name": "calculator_icon"
+  },
+  {
+    "pkg": "com.google.android.contacts",
+    "name": "contact_icon"
+  },
+  {
+    "pkg": "com.android.contacts",
+    "name": "contact_icon"
+  },
+  {
+    "pkg": "com.google.android.dialer",
+    "name": "ic_phone"
+  },
+  {
+    "pkg": "com.android.dialer",
+    "name": "ic_phone"
+  },
+  {
+    "pkg": "com.google.android.gm",
+    "name": "gmail_icon"
+  },
+  {
+    "pkg": "com.google.android.videos",
+    "name": "ic_tv"
+  },
+  {
+    "pkg": "com.google.android.youtube",
+    "name": "youtube_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.magazines",
+    "name": "ic_news"
+  },
+  {
+    "pkg": "com.google.android.apps.tachyon",
+    "name": "ic_facetime"
+  },
+  {
+    "pkg": "com.pinterest",
+    "name": "pinterest_icon"
+  },
+  {
+    "pkg": "com.snapchat.android",
+    "name": "snapchat_icon"
+  },
+  {
+    "pkg": "com.spotify.music",
+    "name": "spotify_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.nbu.files",
+    "name": "ic_files"
+  },
+  {
+    "pkg": "com.google.android.googlequicksearchbox",
+    "name": "google_icon"
+  },
+  {
+    "pkg": "com.facebook.katana",
+    "name": "facebook_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.chromecast.app",
+    "name": "ic_home"
+  },
+  {
+    "pkg": "com.google.android.keep",
+    "name": "notes_icon"
+  },
+  {
+    "pkg": "com.instagram.android",
+    "name": "instagram_icon"
+  },
+  {
+    "pkg": "com.ss.android.ugc.trill",
+    "name": "ic_tik_tok"
+  },
+  {
+    "pkg": "com.twitter.android",
+    "name": "twitter_icon"
+  },
+  {
+    "pkg": "org.telegram.messenger",
+    "name": "ic_telegram"
+  },
+  {
+    "pkg": "com.google.android.apps.youtube.music",
+    "name": "music_icon"
+  },
+  {
+    "pkg": "com.google.android.deskclock",
+    "name": "clock_icon"
+  },
+  {
+    "pkg": "com.google.android.calendar",
+    "name": "calendar_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.books",
+    "name": "ic_book"
+  },
+  {
+    "pkg": "com.linkedin.android",
+    "name": "linkedln_icon"
+  },
+  {
+    "pkg": "com.behance.behance",
+    "name": "behance_icon"
+  },
+  {
+    "pkg": "com.reddit.frontpage",
+    "name": "reddit_icon"
+  },
+  {
+    "pkg": "com.vimeo.android.videoapp",
+    "name": "vimeo_icon"
+  },
+  {
+    "pkg": "com.vincentlee.compass",
+    "name": "compass_icon"
+  },
+  {
+    "pkg": "com.sec.android.app.shealth",
+    "name": "health_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.fitness",
+    "name": "health_icon"
+  },
+  {
+    "pkg": "com.huawei.health",
+    "name": "health_icon"
+  },
+  {
+    "pkg": "com.facebook.orca",
+    "name": "ic_messenger"
+  },
+  {
+    "pkg": "com.maxxt.pcradio",
+    "name": "ic_radio"
+  },
+  {
+    "pkg": "com.streema.simpleradio",
+    "name": "ic_radio"
+  },
+  {
+    "pkg": "com.yahoo.mobile.client.android.finance",
+    "name": "ic_stocks"
+  },
+  {
+    "pkg": "com.etoro.openbook",
+    "name": "ic_stocks"
+  },
+  {
+    "pkg": "com.fusionmedia.investing",
+    "name": "ic_stocks"
+  },
+  {
+    "pkg": "com.binance.dev",
+    "name": "ic_stocks"
+  },
+  {
+    "pkg": "com.google.android.marvin.talkback",
+    "name": "ic_tips"
+  },
+  {
+    "pkg": "free.tube.premium.advanced.tuber",
+    "name": "ic_videos"
+  },
+  {
+    "pkg": "com.sec.android.app.sbrowser",
+    "name": "safari_icon"
+  },
+  {
+    "pkg": "com.mi.globalbrowser",
+    "name": "safari_icon"
+  },
+  {
+    "pkg": "com.microsoft.emmx",
+    "name": "safari_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.translate",
+    "name": "translate_icon"
+  },
+  {
+    "pkg": "com.google.android.apps.googleassistant",
+    "name": "voice_memos_icon"
+  },
+  {
+    "pkg": "com.sec.android.app.voicenote",
+    "name": "voice_memos_icon"
+  }
+]
+}
